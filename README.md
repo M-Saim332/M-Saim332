@@ -1,3 +1,4 @@
+
 <!-- Animated Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Saim&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
@@ -28,7 +29,7 @@
 class MuhammadSaim:
     def __init__(self):
         self.name        = "Muhammad Saim"
-        self.role        = ["AI/ML Engineer", "Data Scientist", "Data Analyst", "Full-Stack Dev"]
+        self.role        = ["AI Engineer", "Data Scientist", "Data Analyst", "Full-Stack Dev"]
         self.university  = "UET Lahore 🎓"
         self.semester     = "3rd Semester"
         self.cgpa        = "3.92 / 4.0 ⭐"
@@ -78,7 +79,7 @@ me.say_hi()
 ### ⚙️ Frameworks & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -167,10 +168,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Saim332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=M-Saim332&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=M-Saim332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=M-Saim332&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&cache_seconds=1800" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Saim332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Saim332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" width="40%"/>
 
 </div>
 
@@ -191,7 +192,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saim-25ab12389)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datascientistssaim@gmail.com)
-![Location](https://img.shields.io/badge/Lahore%20Pakistan-58A6FF?style=for-the-badge)
+![Location](https://img.shields.io/badge/Lahore%20Pakistan-58A6FF?style=for-the-badge&logo=google-maps&logoColor=white)
 
 <br/>
 
@@ -201,3 +202,14 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+```
+
+---
+
+## 🔧 Fixes Summary
+
+| # | Issue | Fix Applied |
+|---|-------|-------------|
+| 1 | **Avalonia icon blank** | Changed `logo=avaloniaui` → `logo=dotnet` (Avalonia has no standard shields.io icon; `.NET` is the closest match) |
+| 2 | **2 broken GitHub Stats images** | Added `&cache_seconds=1800` to all 3 stats URLs to prevent rate-limiting & stale cache |
+| 3 | **Location badge no icon** | Added `logo=google-maps&logoColor=white` for a proper location pin icon |
