@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saim-25ab12389)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saim-25ab12389)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datascientistssaim@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Saim332)
 [![Profile Views](https://komarev.com/ghpvc/?username=M-Saim332&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/M-Saim332)
@@ -189,9 +189,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saim-25ab12389)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saim-25ab12389)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datascientistssaim@gmail.com)
-![Location](https://img.shields.io/badge/Lahore,_Pakistan-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Lahore%20Pakistan-58A6FF?style=for-the-badge)
 
 <br/>
 
