@@ -25,10 +25,10 @@
 ## 👨‍💻 About Me
 
 ```python
-class MuhammadSaim:
+class Muhammad Saim:
     def __init__(self):
         self.name        = "Muhammad Saim"
-        self.role        = ["AI Engineer", "Data Scientist", "Data Analyst", "Full-Stack Dev"]
+        self.role        = ["AI/ML Engineer", "Data Scientist", "Data Analyst", "Full-Stack Dev"]
         self.university  = "UET Lahore 🎓"
         self.semester     = "3rd Semester"
         self.cgpa        = "3.92 / 4.0 ⭐"
@@ -52,10 +52,10 @@ me.say_hi()
 - 📈 **CGPA:** 3.92 / 4.0 &nbsp;|&nbsp; **Last Semester GPA:** 3.95 🔥
 - 💡 Building **SaaS products** — Clinic Management System & School Management System
 - 🤖 Worked with **Google Gemini API & LLMs**
-- 🔐 Developed **smart security systems** with C#
+- 🔐 Developed **Smart security systems** with C#
 - 📊 Passionate about **Data Analysis & Visualization**
 - 🌱 Currently learning **Machine Learning & LangChain**
-- 👀 Open to **internships & collaborations**
+- 👀 Open to **Internships & Collaborations**
 
 <br clear="right"/>
 
