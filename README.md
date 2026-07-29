@@ -168,7 +168,7 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats-ten-pearl-89.vercel.app/api?username=M-Saim332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%"/>
-<img src="https://raw.githubusercontent.com/M-Saim332/M-Saim332/output/streak-stats.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/M-Saim332/M-Saim332/main/streak-stats.svg" width="49%"/>
 <img src="https://github-readme-stats-ten-pearl-89.vercel.app/api/top-langs/?username=M-Saim332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
 
 </div>
