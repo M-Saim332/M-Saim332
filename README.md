@@ -25,12 +25,12 @@
 ## 👨‍💻 About Me
 
 ```python
-class Muhammad Saim:
+class MuhammadSaim:
     def __init__(self):
         self.name        = "Muhammad Saim"
         self.role        = ["AI/ML Engineer", "Data Scientist", "Data Analyst", "Full-Stack Dev"]
         self.university  = "UET Lahore 🎓"
-        self.semester     = "3rd Semester"
+        self.semester    = "3rd Semester"
         self.cgpa        = "3.92 / 4.0 ⭐"
         self.last_gpa    = "3.95 (Last Semester) 🔥"
         self.location    = "Lahore, Pakistan 🇵🇰"
@@ -167,9 +167,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Saim332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats-ten-pearl-89.vercel.app/api?username=M-Saim332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%"/>
 <img src="https://raw.githubusercontent.com/M-Saim332/M-Saim332/main/streak-stats.svg" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Saim332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
+<img src="https://github-readme-stats-ten-pearl-89.vercel.app/api/top-langs/?username=M-Saim332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
 
 </div>
 
