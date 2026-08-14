@@ -15,23 +15,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@master
-        with:
-          user_id: M-Saim332
-          theme: tokyonight
-          hide_border: true
-          background: 0D1117
-          ring: 58A6FF
-          fire: FF6B6B
-          currStreakLabel: 58A6FF
-          timezone: Asia/Karachi
-          date_format: "M j[S]"
-          type: svg
-          exclude_days: ""
-
-      - name: Save output
         run: |
-          find . -name "*.svg" -newer .git -maxdepth 1 || true
+          curl -sf --retry 5 --retry-delay 10 --retry-all-errors \
+            "https://streak-stats.demolab.com/?user=M-Saim332&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&timezone=Asia/Karachi" \
+            -o streak-stats-new.svg
+
+      - name: Validate output is a real SVG
+        run: |
+          if ! grep -q "<svg" streak-stats-new.svg; then
+            echo "Fetched file is not a valid SVG (service likely down). Aborting update."
+            exit 1
+          fi
+          mv streak-stats-new.svg streak-stats.svg
 
       - name: Commit and push
         run: |
